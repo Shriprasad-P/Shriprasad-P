@@ -5,7 +5,7 @@ Hi there! I'm Shriprasad-P, a passionate [Your Role/Title] based in [Your Locati
 
 ## Skills
 - **Languages:** Python, JavaScript, TypeScript
-- **Frameworks:** React, Django, Spring
+- **Frameworks:** React, Django,
 - **Tools:** Git, Docker, Kubernetes
 
 
