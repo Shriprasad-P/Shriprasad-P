@@ -1,7 +1,7 @@
 # About Me
 
 ## Introduction
-Hi there! I'm Shriprasad-P, a passionate [Your Role/Title] based in [Your Location]. I love building things and solving problems.
+Hi there! I'm Shriprasad-P, a passionate Full Stack Developer based in Bangalore. I love building things and solving problems.
 
 ## Skills
 - **Languages:** Python, JavaScript, TypeScript
